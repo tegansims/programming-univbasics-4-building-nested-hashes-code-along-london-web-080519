@@ -22,4 +22,4 @@
 
 
 
-p epic_tragedy[:capulet][:heroine][:age]
+p epic_tragedy[:capulet][:heroine_friends][:age][1]
