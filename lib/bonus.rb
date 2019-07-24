@@ -22,4 +22,4 @@
 
 
 
-p epic_tragedy[:capulet][:heroine_friends][:name][1]
+p epic_tragedy[:capulet][:heroine_friends][:name]
