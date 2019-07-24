@@ -22,4 +22,4 @@
 
 
 
-p epic_tragedy
+p epic_tragedy[:heroine][:heroine_friends][:age]
